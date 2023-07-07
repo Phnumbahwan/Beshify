@@ -32,7 +32,151 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
+  }
+}
+
+/* ===================================================== */
+
+#head {
+  animation: bounce 2s linear infinite alternate;
+}
+
+#Sun {
+  animation: moveSideBySide 3s linear infinite alternate;
+}
+
+#music1 {
+  animation: bounce1 2s linear infinite alternate;
+}
+
+#music2 {
+  animation: bounce2 2s linear infinite alternate;
+}
+
+#music3 {
+  animation: bounce3 2s linear infinite alternate;
+}
+
+#music4 {
+  animation: bounce4 2s linear infinite alternate;
+}
+
+#music5 {
+  animation: bounce5 2s linear infinite alternate;
+}
+
+#music6 {
+  animation: bounce6 2s linear infinite alternate;
+}
+
+#flower1 {
+  animation: moveSideBySide2 2s linear infinite alternate;
+}
+
+#flower2 {
+  animation: moveSideBySide2 2s linear infinite alternate;
+}
+
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes bounce1 {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(20px);
+  }
+}
+
+@keyframes bounce2 {
+  0%,
+  100% {
+    transform: translateY(-20px);
+  }
+
+  50% {
+    transform: translateY(-40px);
+  }
+}
+
+@keyframes bounce3 {
+  0%,
+  100% {
+    transform: translateY(-20px);
+  }
+
+  50% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes bounce4 {
+  0%,
+  100% {
+    transform: translateY(-10px);
+  }
+
+  50% {
+    transform: translateY(-30px);
+  }
+}
+
+@keyframes bounce5 {
+  0%,
+  100% {
+    transform: translateY(10px);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes bounce6 {
+  0%,
+  100% {
+    transform: translateY(-10px);
+  }
+
+  50% {
+    transform: translateY(10px);
+  }
+}
+
+@keyframes moveSideBySide {
+  0% {
+    transform: translateX(-50px);
+  }
+  50% {
+    transform: translateX(40px);
+  }
+  100% {
+    transform: translateX(-50px);
+  }
+}
+
+@keyframes moveSideBySide2 {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(30px);
+  }
+  100% {
+    transform: translateX(0);
   }
 }
