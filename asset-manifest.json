@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0c91335.css",
-    "main.js": "/static/js/main.8a798687.js",
-    "static/js/787.716568a2.chunk.js": "/static/js/787.716568a2.chunk.js",
-    "static/media/dancing-script-latin-600.woff": "/static/media/dancing-script-latin-600.c022cd8e256c0f990121.woff",
-    "static/media/dancing-script-latin-500.woff": "/static/media/dancing-script-latin-500.73b6a4189959c0e2ae32.woff",
-    "static/media/dancing-script-latin-700.woff": "/static/media/dancing-script-latin-700.6620ab669cd9a960d4a4.woff",
-    "static/media/dancing-script-latin-400.woff": "/static/media/dancing-script-latin-400.1586edea335a87aac77b.woff",
-    "static/media/dancing-script-latin-600.woff2": "/static/media/dancing-script-latin-600.ff73374b042e95b424fe.woff2",
-    "static/media/dancing-script-latin-500.woff2": "/static/media/dancing-script-latin-500.83f51239dc43f05d01fd.woff2",
-    "static/media/dancing-script-latin-700.woff2": "/static/media/dancing-script-latin-700.3b75e97b172a829b35a3.woff2",
-    "static/media/dancing-script-latin-400.woff2": "/static/media/dancing-script-latin-400.27fff105ac5db544b54f.woff2",
-    "static/media/send.png": "/static/media/send.46228e3b71052aa77bad.png",
-    "index.html": "/index.html",
-    "main.c0c91335.css.map": "/static/css/main.c0c91335.css.map",
-    "main.8a798687.js.map": "/static/js/main.8a798687.js.map",
-    "787.716568a2.chunk.js.map": "/static/js/787.716568a2.chunk.js.map"
+    "main.css": "/Beshify/static/css/main.3b9aca8e.css",
+    "main.js": "/Beshify/static/js/main.78557a98.js",
+    "static/js/787.716568a2.chunk.js": "/Beshify/static/js/787.716568a2.chunk.js",
+    "static/media/dancing-script-latin-600.woff": "/Beshify/static/media/dancing-script-latin-600.c022cd8e256c0f990121.woff",
+    "static/media/dancing-script-latin-500.woff": "/Beshify/static/media/dancing-script-latin-500.73b6a4189959c0e2ae32.woff",
+    "static/media/dancing-script-latin-700.woff": "/Beshify/static/media/dancing-script-latin-700.6620ab669cd9a960d4a4.woff",
+    "static/media/dancing-script-latin-400.woff": "/Beshify/static/media/dancing-script-latin-400.1586edea335a87aac77b.woff",
+    "static/media/dancing-script-latin-600.woff2": "/Beshify/static/media/dancing-script-latin-600.ff73374b042e95b424fe.woff2",
+    "static/media/dancing-script-latin-500.woff2": "/Beshify/static/media/dancing-script-latin-500.83f51239dc43f05d01fd.woff2",
+    "static/media/dancing-script-latin-700.woff2": "/Beshify/static/media/dancing-script-latin-700.3b75e97b172a829b35a3.woff2",
+    "static/media/dancing-script-latin-400.woff2": "/Beshify/static/media/dancing-script-latin-400.27fff105ac5db544b54f.woff2",
+    "static/media/send.png": "/Beshify/static/media/send.46228e3b71052aa77bad.png",
+    "index.html": "/Beshify/index.html",
+    "main.3b9aca8e.css.map": "/Beshify/static/css/main.3b9aca8e.css.map",
+    "main.78557a98.js.map": "/Beshify/static/js/main.78557a98.js.map",
+    "787.716568a2.chunk.js.map": "/Beshify/static/js/787.716568a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0c91335.css",
-    "static/js/main.8a798687.js"
+    "static/css/main.3b9aca8e.css",
+    "static/js/main.78557a98.js"
   ]
 }
