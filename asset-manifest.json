@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Beshify/static/css/main.3b9aca8e.css",
-    "main.js": "/Beshify/static/js/main.78557a98.js",
+    "main.css": "/Beshify/static/css/main.18a224a1.css",
+    "main.js": "/Beshify/static/js/main.2b40da96.js",
     "static/js/787.716568a2.chunk.js": "/Beshify/static/js/787.716568a2.chunk.js",
     "static/media/dancing-script-latin-600.woff": "/Beshify/static/media/dancing-script-latin-600.c022cd8e256c0f990121.woff",
     "static/media/dancing-script-latin-500.woff": "/Beshify/static/media/dancing-script-latin-500.73b6a4189959c0e2ae32.woff",
@@ -13,12 +13,12 @@
     "static/media/dancing-script-latin-400.woff2": "/Beshify/static/media/dancing-script-latin-400.27fff105ac5db544b54f.woff2",
     "static/media/send.png": "/Beshify/static/media/send.46228e3b71052aa77bad.png",
     "index.html": "/Beshify/index.html",
-    "main.3b9aca8e.css.map": "/Beshify/static/css/main.3b9aca8e.css.map",
-    "main.78557a98.js.map": "/Beshify/static/js/main.78557a98.js.map",
+    "main.18a224a1.css.map": "/Beshify/static/css/main.18a224a1.css.map",
+    "main.2b40da96.js.map": "/Beshify/static/js/main.2b40da96.js.map",
     "787.716568a2.chunk.js.map": "/Beshify/static/js/787.716568a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b9aca8e.css",
-    "static/js/main.78557a98.js"
+    "static/css/main.18a224a1.css",
+    "static/js/main.2b40da96.js"
   ]
 }
