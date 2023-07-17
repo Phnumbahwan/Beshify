@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Beshify/static/css/main.18a224a1.css",
+    "main.css": "/Beshify/static/css/main.8bb4688c.css",
     "main.js": "/Beshify/static/js/main.2b40da96.js",
     "static/js/787.716568a2.chunk.js": "/Beshify/static/js/787.716568a2.chunk.js",
     "static/media/dancing-script-latin-600.woff": "/Beshify/static/media/dancing-script-latin-600.c022cd8e256c0f990121.woff",
@@ -13,12 +13,12 @@
     "static/media/dancing-script-latin-400.woff2": "/Beshify/static/media/dancing-script-latin-400.27fff105ac5db544b54f.woff2",
     "static/media/send.png": "/Beshify/static/media/send.46228e3b71052aa77bad.png",
     "index.html": "/Beshify/index.html",
-    "main.18a224a1.css.map": "/Beshify/static/css/main.18a224a1.css.map",
+    "main.8bb4688c.css.map": "/Beshify/static/css/main.8bb4688c.css.map",
     "main.2b40da96.js.map": "/Beshify/static/js/main.2b40da96.js.map",
     "787.716568a2.chunk.js.map": "/Beshify/static/js/787.716568a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18a224a1.css",
+    "static/css/main.8bb4688c.css",
     "static/js/main.2b40da96.js"
   ]
 }
